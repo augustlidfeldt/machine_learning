@@ -1,2 +1,2 @@
-# machine_learning
+# Machine Learning
 Machine learning playground
